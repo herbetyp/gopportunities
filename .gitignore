@@ -1,3 +1,16 @@
+# envs
 .vscode
 .env
 .venv
+
+# binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# test binaries
+*.test
+*.out
+
+# 
